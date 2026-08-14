@@ -1,0 +1,10 @@
+Package: com.lvt.vawntoanthems
+Name: Zalo Theme
+version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Theme Zalo bao gom hieu ung trong app va icon ung dung
+Maintainer: Vawn Toan
+Author: Lee Vawn Toan
+Section: Themes
+Filename: packages/com.lvt.vawntoanthems_1.0.0_iphoneos-arm64.deb
+Size: 28057
